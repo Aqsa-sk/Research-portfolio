@@ -5,10 +5,10 @@ This repository contains an overview of my research and a collection of academic
 in computational material science, computational chemistry, quantum information and related fields.
 
 # Research Interests:
-- AI for Scientific discoveries
+- **AI for Scientific discoveries**
 - Designing computational workflows for highly correlated systems
 - Quantum Information and Quantum Computing
-- Statistical Modeling and Optimizations using Neural Networks
+- **Statistical Modeling and Optimizations using Neural Networks**
 - Molecular and Material Simulations with Benchmark results
 
 # Scientific Computing & Research Tools:
