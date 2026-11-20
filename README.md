@@ -43,6 +43,6 @@ I have gained expertise in variety of software packages, to list a few:
 
 1. **Using Variational Eigenvalue Solver for simulation of NaH molecule**  
    *Quantum Information | Unpublished Course Paper*  
-   [Read PDF](course-papers/VQE-py790.pdf)
+   [Read PDF](course-papers/VQE-PY-790.pdf)
 
 
