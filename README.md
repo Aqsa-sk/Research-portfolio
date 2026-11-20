@@ -39,7 +39,7 @@ I have gained expertise in variety of software packages, to list a few:
 1. **[Toward Predictive Hydride Bond Energetics with Neural-Network Wavefunctions](https://arxiv.org/abs/2609.15898)**  
    *A. Shaikh, L. Mitas, P.Ganesh, J. T. Krogel — arXiv, 2026*
 
-### Academic Course Papers for PY-790 (Spring 2024) - Quantum Information
+### Academic Course Paper for PY-790 (Spring 2024) - Quantum Information
 
 1. **Using Variational Eigenvalue Solver for simulation of NaH molecule**  
    *Quantum Information | Unpublished Course Paper*  
